@@ -223,8 +223,8 @@
 ----
 <h4 align="left">🛸 Top Lang:</h4>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=tokyonight#gh-dark-mode-only&locale=en&langs_count=10&layout=compact" alt="sychadelite" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=synthwave#gh-light-mode-only&locale=en&langs_count=10&layout=compact" alt="sychadelite" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=tokyonight#gh-dark-mode-only&locale=en&langs_count=8&layout=compact" alt="sychadelite" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=synthwave#gh-light-mode-only&locale=en&langs_count=8&layout=compact" alt="sychadelite" />
 </p>
 
 <h4 align="left">☄ Github Stats:</h4>

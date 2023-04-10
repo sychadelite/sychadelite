@@ -34,7 +34,9 @@
 
 - ⚡ Fun fact **I think I am alive !**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h2 align="left">🗿 Connect with me:</h2>
 <p align="left">
     <a href="https://twitter.com/themoltisanti" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themoltisanti" height="30" width="40" />
@@ -56,7 +58,9 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h2 align="left">🧬 Languages and Tools:</h2>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -213,14 +217,22 @@
     </a>
 </p>
 
+---
+
+<h2 align="left">🔱 Analytics:</h2>
+----
+<h4 align="left">🛸 Top Lang:</h4>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&locale=en&layout=compact" alt="sychadelite" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=tokyonight#gh-dark-mode-only&locale=en&langs_count=10&layout=compact" alt="sychadelite" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=synthwave#gh-light-mode-only&locale=en&langs_count=10&layout=compact" alt="sychadelite" />
 </p>
 
+<h4 align="left">☄ Github Stats:</h4>
 <p>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sychadelite&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="sychadelite" height="170" />
 </p>
 
+<h4 align="left">🛰 Streak Stats:</h4>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sychadelite&" alt="sychadelite" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sychadelite&theme=violet-punch&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="sychadelite" />
 </p>

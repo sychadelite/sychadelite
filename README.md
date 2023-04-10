@@ -223,16 +223,15 @@
 ----
 <h4 align="left">🛸 Top Lang:</h4>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=noctis_minimus&locale=en&langs_count=10&layout=compact#gh-light-mode-only" alt="sychadelite" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=midnight-purple&locale=en&langs_count=10&layout=compact#gh-dark-mode-only" alt="sychadelite" />
+    &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=midnight-purple&locale=en&langs_count=10&layout=compact#gh-dark-mode-only" alt="sychadelite" />&nbsp;
 </p>
 
 <h4 align="left">☄ Github Stats:</h4>
 <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sychadelite&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="sychadelite" height="170" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sychadelite&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=midnight-purple" alt="sychadelite" height="170" />&nbsp;
 </p>
 
 <h4 align="left">🛰 Streak Stats:</h4>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sychadelite&theme=violet-punch&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="sychadelite" />
+    &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sychadelite&theme=violet-punch&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="sychadelite" />&nbsp;
 </p>

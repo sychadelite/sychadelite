@@ -224,7 +224,7 @@
 <div>
     <h4 align="left">🛸 Top Lang:</h4>
     <p>
-        &nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=midnight-purple&locale=en&langs_count=10&layout=compact#gh-dark-mode-only" alt="sychadelite" />&nbsp;&nbsp;
+        &nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=midnight-purple&locale=en&langs_count=10&layout=compact#gh-dark-mode-only" alt="sychadelite" />&nbsp;&nbsp;
     </p>
 </div>
 

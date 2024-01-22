@@ -20,7 +20,7 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on [Jade Dynasty Private Server](https://wrathnet.com/)
+- 🔭 I’m currently working on [Jade Dynasty Private Server](https://wrathnet.com/) and [Kadaku](https://kadaku.id/)
 
 - 🌱 I’m currently learning **NUXT, Vue 3 and Laravel**
 

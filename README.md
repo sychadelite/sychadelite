@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [Jade Dynasty Private Server](https://wrathnet.com/) and [Kadaku](https://kadaku.id/)
 
-- 🌱 I’m currently learning **NUXT, Vue 3 and Laravel**
+- 🌱 I’m currently learning **Spring Boot, MongoDB and Microservice Projects**
 
 - 👨‍💻 All of my projects are available at [https://barjlazuardi-portfolio.vercel.app/](https://barjlazuardi-portfolio.vercel.app/)
 

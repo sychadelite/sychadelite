@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://barjlazuardi-portfolio.vercel.app/](https://barjlazuardi-portfolio.vercel.app/)
 
-- 💬 Ask me about **vue, gsap and pinia**
+- 💬 Ask me about **laravel, vue, pinia and gsap**
 
 - 📫 How to reach me **hashiramakun58@gmail.com**
 

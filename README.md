@@ -6,8 +6,8 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/sychadelite/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+    <a href="https://github.com/sychadelite/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=sychadelite&column=8&theme=gruvbox&no-frame=true" alt="sychadelite" />
     </a>
 </p>

@@ -20,7 +20,7 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on [Jade Dynasty Private Server](https://wrathnet.com/) and [Kadaku](https://kadaku.id/)
+- 🔭 I’m currently working on [Lapak Satwa](https://lapaksatwa.co.id/) and [Kadaku](https://kadaku.id/)
 
 - 🌱 I’m currently learning **Spring Boot, MongoDB and Microservice Projects**
 

@@ -47,7 +47,7 @@
     <a href="https://instagram.com/barjlazuardi" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <a href="https://discord.gg/Krazy-8#8280" target="_blank">
+    <a href="https://discordapp.com/users/417678662633127937" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord" />
     </a>
 </p>

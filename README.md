@@ -37,7 +37,7 @@
 ---
 
 <h2 align="left">🗿 Connect with me:</h2>
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px;">
     <a href="https://twitter.com/themoltisanti" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themoltisanti" height="30" width="40" />
     </a>
@@ -56,12 +56,12 @@
     <a href="https://discord.gg/Krazy-8#8280" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krazy-8#8280" height="30" width="40" />
     </a>
-</p>
+</div>
 
 ---
 
 <h2 align="left">🧬 Languages and Tools:</h2>
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px;">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
@@ -236,6 +236,12 @@
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
         <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
     </a>
+    <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/>
+    </a>
+    <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+        <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" alt="swagger" width="40" height="40"/>
+    </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
     </a>
@@ -275,7 +281,7 @@
     <a href="https://dev.azure.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
     </a>
-</p>
+</div>
 
 ---
 

@@ -30,14 +30,14 @@
 
 - 📫 How to reach me **hashiramakun58@gmail.com**
 
-- 📄 Know about my experiences [https://barjlazuardi-portfolio.vercel.app/documents/Barj_CV.pdf](https://barjlazuardi-portfolio.vercel.app/documents/Barj%20CV%20-%20Grey%20&%20White%20Minimalist%20Resume.pdf)
+- 📄 Know about my experiences [View Resume](https://barjlazuardi-portfolio.vercel.app/documents/Barj%20CV%20-%20Grey%20%26%20White%20Minimalist%20Resume.pdf)
 
 - ⚡ Fun fact **I think I am alive !**
 
 ---
 
 <h2 align="left">🗿 Connect with me:</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px;">
+<p align="left">
     <a href="https://twitter.com/themoltisanti" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themoltisanti" height="30" width="40" />
     </a>
@@ -56,12 +56,12 @@
     <a href="https://discord.gg/Krazy-8#8280" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krazy-8#8280" height="30" width="40" />
     </a>
-</div>
+</p>
 
 ---
 
 <h2 align="left">🧬 Languages and Tools:</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px;">
+<p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
@@ -281,7 +281,7 @@
     <a href="https://dev.azure.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
     </a>
-</div>
+</p>
 
 ---
 

@@ -8,7 +8,7 @@
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sychadelite&column=8&theme=gruvbox&no-frame=true" alt="sychadelite" />
+        <img src="https://github-profile-repo.vercel.app/?username=sychadelite&column=8&theme=gruvbox&no-frame=true&margin-w=8&margin-h=8" alt="sychadelite" />
     </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **hashiramakun58@gmail.com**
 
-- 📄 Know about my experiences [https://barjlazuardi-portfolio.vercel.app/documents/Barj_CV.pdf](https://barjlazuardi-portfolio.vercel.app/documents/Barj_CV.pdf)
+- 📄 Know about my experiences [https://barjlazuardi-portfolio.vercel.app/documents/Barj_CV.pdf](https://barjlazuardi-portfolio.vercel.app/documents/Barj%20CV%20-%20Grey%20&%20White%20Minimalist%20Resume.pdf)
 
 - ⚡ Fun fact **I think I am alive !**
 
@@ -98,6 +98,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
+    <a href="https://github.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/330px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/>
+    </a>
+    <a href="https://gitlab.com" target="_blank" rel="noreferrer">
+        <img src="https://about.gitlab.com/images/ico/favicon.ico" alt="gitlab" width="40" height="40"/>
+    </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
     </a>
@@ -155,11 +161,32 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://nextjs.org/favicon.ico?favicon.117ezoe8m31dk.ico?dpl=dpl_54z3VYqN27KrizTW5QoU6Su6QxHQ" alt="nextjs" width="40" height="40"/>
+    </a>
+    <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+        <img src="https://ui.shadcn.com/favicon.ico" alt="shadcn" width="40" height="40"/>
+    </a>
+    <a href="https://zod.dev/" target="_blank" rel="noreferrer">
+        <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" alt="zod" width="40" height="40"/>
+    </a>
+    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+        <img src="https://eslint.org/icon.svg" alt="eslint" width="40" height="40"/>
+    </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico" alt="vercel" width="40" height="40"/>
     </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
@@ -212,8 +239,41 @@
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
     </a>
+    <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+        <img src="https://vite.dev//logo-without-border.svg" alt="vite" width="40" height="40"/>
+    </a>
+    <a href="https://gsap.com/" target="_blank" rel="noreferrer">
+        <img src="https://gsap.com/favicon-32x32.png" alt="gsap" width="40" height="40"/>
+    </a>
+    <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://threejs.org/files/favicon.ico" alt="threejs" width="40" height="40"/>
+    </a>
+    <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+        <img src="https://images.stripeassets.com/fzn2n1nzq965/1hgcBNd12BfT9VLgbId7By/01d91920114b124fb4cf6d448f9f06eb/favicon.svg" alt="stripe" width="40" height="40"/>
+    </a>
+    <a href="https://www.doku.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.prod.website-files.com/674ab654de930b217c6389c1/6756a9f7ba44cad5543f87e2_doku-logo-red.svg" alt="doku" width="40" height="40"/>
+    </a>
+    <a href="https://www.paypal.com/" target="_blank" rel="noreferrer">
+        <img src="	https://www.paypalobjects.com/marketing/web/logos/paypal-mark-color.svg" alt="paypal" width="40" height="40"/>
+    </a>
+    <a href="https://midtrans.com/" target="_blank" rel="noreferrer">
+        <img src="https://midtrans.com/assets/img/ico.png" alt="midtrans" width="40" height="40"/>
+    </a>
+    <a href="https://www.xendit.co/" target="_blank" rel="noreferrer">
+        <img src="https://www.xendit.co/wp-content/uploads/2025/09/xd-favicon.png" alt="xendit" width="40" height="40"/>
+    </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1280px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/960px-Figma-logo.svg.png" alt="figma" width="40" height="40"/>
+    </a>
+    <a href="https://www.mendix.com/" target="_blank" rel="noreferrer">
+        <img src="https://home.mendix.com/img/PlatformDesignSystem$Images$mendix.png?639088401892536796" alt="mendix" width="40" height="40"/>
+    </a>
+    <a href="https://dev.azure.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
     </a>
 </p>
 
@@ -238,6 +298,6 @@
 <div>
     <h4 align="left">🛰 Streak Stats:</h4>
     <p>
-        &nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sychadelite&theme=violet-punch&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="sychadelite" />&nbsp;&nbsp;
+        &nbsp;&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=sychadelite&theme=kanagawa-paper&hide_border=true&short_numbers=true" alt="sychadelite" />&nbsp;&nbsp;
     </p>
 </div>

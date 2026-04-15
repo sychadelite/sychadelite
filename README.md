@@ -38,23 +38,17 @@
 
 <h2 align="left">🗿 Connect with me:</h2>
 <p align="left">
-    <a href="https://twitter.com/themoltisanti" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themoltisanti" height="30" width="40" />
+    <a href="https://twitter.com/themoltisanti" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
-    <a href="https://linkedin.com/in/barjlazuardi" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barjlazuardi" height="30" width="40" />
+    <a href="https://linkedin.com/in/barjlazuardi" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="https://fb.com/barjlazuardi" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barjlazuardi" height="30" width="40" />
+    <a href="https://instagram.com/barjlazuardi" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <a href="https://instagram.com/barjlazuardi" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barjlazuardi" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/barjlazuardi8751" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="barjlazuardi8751" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/Krazy-8#8280" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krazy-8#8280" height="30" width="40" />
+    <a href="https://discord.gg/Krazy-8#8280" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" />
     </a>
 </p>
 

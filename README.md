@@ -66,14 +66,14 @@
 <div>
     <h4 align="left">🛸 Top Lang:</h4>
     <p>
-        &nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=midnight-purple&locale=en&langs_count=10&layout=compact#gh-dark-mode-only" alt="sychadelite" />&nbsp;&nbsp;
+        &nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychadelite&show_icons=true&theme=nord&locale=en&langs_count=10&layout=compact#gh-dark-mode-only" alt="sychadelite" />&nbsp;&nbsp;
     </p>
 </div>
 
 <div>
     <h4 align="left">☄ Github Stats:</h4>
     <p>
-        &nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sychadelite&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=midnight-purple" alt="sychadelite" height="170" />&nbsp;&nbsp;
+        &nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sychadelite&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=nord" alt="sychadelite" height="170" />&nbsp;&nbsp;
     </p>
 </div>
 
